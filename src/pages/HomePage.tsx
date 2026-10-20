@@ -16,7 +16,7 @@ export default function HomePage() {
     <SectionErrorBoundary name="hero">
           <HeroSplitVerticalMarquee
       tag="Expertiză și Calitate"
-      title="GUARDIAN HOMESTYLE – Calitate și profesionalism de 20 de ani"
+      title="GUARDIAN HOMESTYLE "
       description="Transformăm locuința dumneavoastră într-un spațiu sigur și modern. Tâmplărie PVC și aluminiu la standarde europene, fațade și soluții din sticlă securizată."
       primaryButton={{
         text: "SOLICITĂ O OFERTĂ",
